@@ -19,7 +19,7 @@ public class stepDefinition {
     public void user_should_be_on_netbanking_landing_page() throws Throwable 
 	{
 		//Write the code to login to "www.bankofamerica.com" landing page
-    	
+    	System.out.println("Welcome to Cucumber Code");
     	System.out.println("Selenium to Land in 'www.bankofamerica.com' Home Page:");
 	}
 	
@@ -76,7 +76,7 @@ public class stepDefinition {
     {	
 	//Write the Selenium code to verify whether all credit cards details are being displayed
 	
-	System.out.println("Is All credit Card to be displayed? :" +strArg1);	
+	System.out.println("Is All credit Card to be displayed ? :" +strArg1);	
     System.out.println("Selenium to check whether all the credit card details are being displayed");
     }
 	
@@ -84,9 +84,10 @@ public class stepDefinition {
 	{
 	//Write the Selenium code to verify whether none of credit cards details are being displayed
 		
-	System.out.println("Is All credit Card to be displayed? :" +strArg1);	
+	System.out.println("Is All credit Card to be displayed ? :" +strArg1);	
 	System.out.println("Selenium to check whether none of the credit card details are being displayed");
 	System.out.println();
+	
 	    	
 		
 	}
