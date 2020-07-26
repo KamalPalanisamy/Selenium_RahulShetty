@@ -19,7 +19,7 @@ public class stepDefinition {
     public void user_should_be_on_netbanking_landing_page() throws Throwable 
 	{
 		//Write the code to login to "www.bankofamerica.com" landing page
-    	System.out.println("Welcome to Cucumber Code");
+    	System.out.println("Welcome to Cucumber Code of BDD");
     	System.out.println("Selenium to Land in 'www.bankofamerica.com' Home Page:");
 	}
 	
