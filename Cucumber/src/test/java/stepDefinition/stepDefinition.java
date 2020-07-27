@@ -19,7 +19,8 @@ public class stepDefinition {
     public void user_should_be_on_netbanking_landing_page() throws Throwable 
 	{
 		//Write the code to login to "www.bankofamerica.com" landing page
-    	System.out.println("Welcome to Cucumber Code of BDD");
+    	System.out.println("Kamal Palanisamy will get $180,000 per year salary from the year 2020 and he will work in United States of America till 2030 with
+				the help of God's blessing");
     	System.out.println("Selenium to Land in 'www.bankofamerica.com' Home Page:");
 	}
 	
