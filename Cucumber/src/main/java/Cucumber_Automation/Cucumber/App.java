@@ -14,5 +14,6 @@ public class App
 	System.out.println("Kamal will buy lot of apartment complexes that consist of 200 houses from 2020 to 2030");
 	System.out.println("Kamal will marry to a wonderful girl in 2021 and he will lead happy life with her until rest of his life 2070");
 	System.out.println("Barani will marry to a wonderful guy in 2021 and she will lead happy life with her until rest of his life 2070");
+	System.out.println("Mani SegodaGounder will vacate Kamal's house in Kasianna Street in August 2020");
     }
 }
